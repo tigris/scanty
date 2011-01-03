@@ -21,9 +21,8 @@ the starting point for your blog, too.
 
 == Dependencies
 
-  $ gem install sinatra
-
-Sequel, Maruku, and Syntax are all vendored.
+  $ gem install bundler
+  $ bundle install --path gems --local
 
 == Setup
 
